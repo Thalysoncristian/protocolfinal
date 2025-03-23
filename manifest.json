@@ -1,10 +1,10 @@
 {
-    "name": " STTE Protocolos",
+    "name": "stteprotocolos",
     "short_name": "Protocolos",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#000000",
-    "theme_color": "#FF1493",
+    "theme_color": "#2240b2",
     "icons": [
       {
         "src": "android/android-launchericon-512-512.png",
@@ -16,5 +16,7 @@
         "type": "image/png",
         "sizes": "512x512"
       }
-    ]
+    ],
+    "description": "Use para localizar UC e endenço dos sites",
+    "lang": "pt"
   }
