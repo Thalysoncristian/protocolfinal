@@ -1,0 +1,20 @@
+{
+    "name": " STTE Protocolos",
+    "short_name": "Protocolos",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#FF1493",
+    "icons": [
+      {
+        "src": "android/android-launchericon-512-512.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "android/android-launchericon-192-192.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
