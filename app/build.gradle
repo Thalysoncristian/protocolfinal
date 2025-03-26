@@ -23,7 +23,7 @@ plugins {
 def twaManifest = [
     applicationId: 'app.netlify.stte_protocolos.twa',
     hostName: 'stte-protocolos.netlify.app/', // The domain being opened in the TWA.
-    launchUrl: '/index.html)', // The start path for the TWA. Must be relative to the domain.
+    launchUrl: '/index.html', // The start path for the TWA. Must be relative to the domain.
     name: 'stteprotocolos', // The application name.
     launcherName: 'Protocolos', // The name shown on the Android Launcher.
     themeColor: '#000000', // The color used for the status bar.
